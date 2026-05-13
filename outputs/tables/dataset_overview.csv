@@ -1,0 +1,11 @@
+metric,value
+rows (raw),5572.0
+rows (deduplicated),5169.0
+duplicates removed,403.0
+missing values,0.0
+ham count,4516.0
+spam count,653.0
+spam share (%),12.63
+mean message length (chars),79.3
+median message length (chars),61.0
+max message length (chars),910.0

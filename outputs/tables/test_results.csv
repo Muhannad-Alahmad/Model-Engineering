@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+LinearSVM_tfidf,0.9884,0.9837,0.9237,0.9528,0.9974
+LogReg_tfidf,0.9874,0.9609,0.9389,0.9498,0.9967
+MNB_count,0.9874,0.9758,0.9237,0.949,0.9823

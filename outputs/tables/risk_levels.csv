@@ -1,0 +1,4 @@
+risk_level,threshold,TP,FP,FN,TN,precision,recall,f1,accuracy
+Strict (low-risk),0.3,124.0,8.0,7.0,895.0,0.9394,0.9466,0.943,0.9855
+Balanced (medium-risk),0.5,121.0,2.0,10.0,901.0,0.9837,0.9237,0.9528,0.9884
+Permissive (high-risk),0.7,118.0,0.0,13.0,903.0,1.0,0.9008,0.9478,0.9874

@@ -1,0 +1,4 @@
+model,cv_accuracy_mean,cv_accuracy_std,cv_precision_mean,cv_recall_mean,cv_f1_mean,cv_f1_std
+LinearSVM_tfidf,0.9881,0.0025,0.9597,0.9463,0.9528,0.0096
+LogReg_tfidf,0.9869,0.0009,0.9468,0.9501,0.9484,0.0035
+MNB_count,0.9843,0.002,0.9427,0.9329,0.9375,0.0077
